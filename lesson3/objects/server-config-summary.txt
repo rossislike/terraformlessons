@@ -1,5 +1,0 @@
-Hostname: server01
-IP Address: 192.168.1.10
-Operating System: Ubuntu
-Active: Yes
-Installed Services: nginx, mysql
